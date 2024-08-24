@@ -1,0 +1,4 @@
+#Sat Aug 24 18:45:12 MSK 2024
+base.0=D\:\\it\\freelance\\Volcano 2\\android\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

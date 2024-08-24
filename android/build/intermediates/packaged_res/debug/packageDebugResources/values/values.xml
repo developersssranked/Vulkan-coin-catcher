@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Вулкан - Поймай Монеты</string>
+    <string name="gcm_defaultSenderId" translatable="false">189318285759</string>
+    <string name="google_api_key" translatable="false">AIzaSyDM-UbZ3BKAmQsYe_6PbjyxNvHWzVrxjUM</string>
+    <string name="google_app_id" translatable="false">1:189318285759:android:6aace0adb1e283d39d390a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDM-UbZ3BKAmQsYe_6PbjyxNvHWzVrxjUM</string>
+    <string name="google_storage_bucket" translatable="false">volcano-e4264.appspot.com</string>
+    <string name="project_id" translatable="false">volcano-e4264</string>
+    <style name="GdxTheme" parent="android:Theme">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

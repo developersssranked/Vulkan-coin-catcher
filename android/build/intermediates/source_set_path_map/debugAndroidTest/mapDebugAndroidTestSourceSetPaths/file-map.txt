@@ -1,0 +1,4 @@
+com.app.android.test.android-androidTest-0 D:\it\freelance\Volcano 2\android\build\generated\res\resValues\androidTest\debug
+com.app.android.test.android-mergeDebugAndroidTestResources-1 D:\it\freelance\Volcano 2\android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.app.android.test.android-mergeDebugAndroidTestResources-2 D:\it\freelance\Volcano 2\android\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.app.android.test.android-debugAndroidTest-3 D:\it\freelance\Volcano 2\android\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
